@@ -17,10 +17,11 @@
 
 ## About me in code 
 ```javascript
-const thai = {
+const Aquilespina = {
   pronouns: "hi" | "hem",
- 		age: '20 years'
-	hobbies: ['Programming','Video Games','Teach others']
+  nationality: 'Mexican',
+  age: '20 years'
+hobbies: ['Programming','Video Games','Teach others']
 
 }
 ```
