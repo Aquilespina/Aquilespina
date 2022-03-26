@@ -10,7 +10,6 @@
 - ⚡ Fun fact: ...
 -->
 
-
 ⚙ QA Testing
 
 💼  Analista.
@@ -25,3 +24,11 @@ hobbies: ['Programming','Video Games','Teach others']
 
 }
 ```
+## Communities 🌎
+* Stundent Ambassador Codigos bits ⚡️
+* Azure Tech Frog 🐸
+* Google Developer Groups Orizaba 🚀
+* Trival Devs 🖥
+
+## Languaje & tools
+
