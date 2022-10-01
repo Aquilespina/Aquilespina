@@ -29,9 +29,10 @@ hobbies: ['Programming','Video Games','Teach others']
 
 ## TALKS 🗣
 + [Principles of computer security (Codigo bits)](https://www.youtube.com/watch?v=QVMgjwvqkks&t)⚡️
-+ [Artificial cognition in japan (MLSA)](https://www.facebook.com/QueChulaNube/videos/329762555336022) min 2:14:44
++ [Artificial cognition in japan (MLSA)](https://youtu.be/okrlnFOEl1A?t=7060)
++ [Ayuda a mejorar el sistema de santa claus  (MLSA)](https://www.facebook.com/QueChulaNube/videos/329762555336022) min 2:14:44
 + [Haz posible el sistema de tus sueños (Azure Tech Frog MLSA)](https://www.facebook.com/azuretechfrogs/videos/930648907812695) min 2:19:53
-+ [Azure custom vision + Gaugan2 the help for greener spaces (Green In Tech)](https://youtu.be/3kI0m13hG4I?t=6741)
++ [Azure custom vision + Gaugan2 the help for greener spaces (MLSA)](https://youtu.be/3kI0m13hG4I?t=6741)
 
 
 
