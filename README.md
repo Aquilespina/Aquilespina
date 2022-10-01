@@ -23,16 +23,16 @@ hobbies: ['Programming','Video Games','Teach others']
 ```
 ## Communities 🌎
 * Stundent Ambassador Codigos bits ⚡️
-* Azure Tech Frog MLSA🐸
+* Azure Tech Frog Microsoft Learn Student Ambassadors🐸
 * Google Developer Groups Orizaba 🚀
 * Trival Devs 🖥
 
 ## TALKS 🗣
 + [Principles of computer security (Codigo bits)](https://www.youtube.com/watch?v=QVMgjwvqkks&t)⚡️
-+ [Artificial cognition in japan (MLSA)](https://youtu.be/okrlnFOEl1A?t=7060)
-+ [Ayuda a mejorar el sistema de santa claus  (MLSA)](https://www.facebook.com/QueChulaNube/videos/329762555336022) min 2:14:44
-+ [Haz posible el sistema de tus sueños (Azure Tech Frog MLSA)](https://www.facebook.com/azuretechfrogs/videos/930648907812695) min 2:19:53
-+ [Azure custom vision + Gaugan2 the help for greener spaces (MLSA)](https://youtu.be/3kI0m13hG4I?t=6741)
++ [Artificial cognition in japan (Microsoft Learn Student Ambassadors)](https://youtu.be/okrlnFOEl1A?t=7060)
++ [Ayuda a mejorar el sistema de santa claus  (Microsoft Learn Student Ambassadors)](https://www.facebook.com/QueChulaNube/videos/329762555336022) min 2:14:44
++ [Haz posible el sistema de tus sueños (Azure Tech Frog Microsoft Learn Student Ambassadors)](https://www.facebook.com/azuretechfrogs/videos/930648907812695) min 2:19:53
++ [Azure custom vision + Gaugan2 the help for greener spaces (Microsoft Learn Student Ambassadors)](https://youtu.be/3kI0m13hG4I?t=6741)
 
 
 
