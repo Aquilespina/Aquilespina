@@ -13,7 +13,7 @@
 <p align="center"> Passionate about being a QA analyst, I love to look for innovation in technology to break barriers and genres. </p>
 
 ## About me in code 
-```python
+```javascript
 const Aquilespina = {
   pronouns: "hi" | "hem",
   nationality: 'Mexican',
