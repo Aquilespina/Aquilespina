@@ -1,16 +1,56 @@
-<h1 align="center"> Hi  I'm Aquiles 👋</h1>
-<p align="center"> Passionate about being a QA analyst, I love to look for innovation in technology to break barriers and genres. </p>
+# ¡Hola! Soy [Aquiles Piña Olvera]
 
-## About me in code 
-```javascript
-const Aquilespina = {
-  pronouns: "hi" | "hem",
-  nationality: 'Mexican',
-  age: '20 years'
-hobbies: ['Programming','Video Games','Teach others']
-}
-```
-## 
+[![Tu nombre](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aquilespo/)
+[![Tu nombre](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/tu-usuario-de-twitter)
+[![Tu nombre](https://img.shields.io/github/followers/tu-usuario-de-github?label=Follow&style=social)](https://github.com/tu-usuario-de-github)
+
+Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la programación y me encanta desarrollar soluciones creativas a los problemas. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes áreas.
+
+## Habilidades
+
+- Lenguajes de programación: Python, JavaScript, Java
+- Tecnologías web: HTML, CSS, React
+- Bases de datos: MySQL 
+- Herramientas de desarrollo: Git, VS Code
+
+## Proyectos Destacados
+
+### Proyecto 1
+
+Breve descripción del proyecto y su importancia. Puedes agregar un enlace a la demo o al repositorio.
+
+### Proyecto 2
+
+Breve descripción del proyecto y su importancia. Puedes agregar un enlace a la demo o al repositorio.
+
+## Contribuciones
+
+- [Nombre del proyecto o repositorio](enlace-al-repositorio): Descripción breve de tu contribución y su importancia.
+
+## Experiencia
+
+### Nombre de la empresa
+
+- Cargo: Descripción breve de tus responsabilidades y logros.
+- Período: Fecha de inicio - Fecha de finalización
+
+### Nombre de la empresa
+
+- Cargo: Descripción breve de tus responsabilidades y logros.
+- Período: Fecha de inicio - Fecha de finalización
+
+## Educación
+
+- Título: Nombre del título obtenido
+- Universidad: Nombre de la universidad o institución educativa
+- Año de graduación: Año de graduación
+
+## ¡Ponte en contacto conmigo!
+
+Si quieres colaborar en algún proyecto o simplemente quieres decir hola, no dudes en contactarme a través de LinkedIn, Twitter o por correo electrónico.
+
+¡Espero que te haya gustado mi perfil! No dudes en explorar mis proyectos y contribuciones. ¡Gracias por visitar!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
