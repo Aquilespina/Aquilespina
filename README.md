@@ -16,8 +16,9 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la programación y me
 ## Proyectos Destacados
 
 ### Proyecto 1
+## NASA SPACE CHALLANGE 2023
+Un proyecto desarrollado durante un hackathon organizado por la NASA. En este evento, se abordó la problemática de la creación de una oficina turística espacial.
 
-Breve descripción del proyecto y su importancia. Puedes agregar un enlace a la demo o al repositorio.
 
 ### Proyecto 2
 
