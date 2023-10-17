@@ -2,9 +2,6 @@
 
 [![Tu nombre](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aquilespo/)
 [![Tu nombre](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/tu-usuario-de-twitter)
-[![Tu nombre](https://img.shields.io/github/followers/tu-usuario-de-github?label=Follow&style=social)](https://github.com/tu-usuario-de-github)
-
-Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la programación y me encanta desarrollar soluciones creativas a los problemas. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes áreas.
 
 ## Habilidades
 
@@ -15,36 +12,21 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado/a de la programación y me
 
 ## Proyectos Destacados
 
-### Proyecto 1
-## NASA SPACE CHALLANGE 2023
+### NASA SPACE CHALLANGE 2023
 Un proyecto desarrollado durante un hackathon organizado por la NASA. En este evento, se abordó la problemática de la creación de una oficina turística espacial.
+[Link del repositorio](https://github.com/Josmar360/Planetary_Tourism_Office)
+
+### GAME DAY 2023
+
+Un proyecto desarollador durante la WOMAN GAME DAY 2023. En el cual tuvimos 48 horas para crear un videojuego con la tematica de un cambio de perspectiva
+[Link del repositorio](https://github.com/Aquilespina/Prometeo_Gameday)
 
 
-### Proyecto 2
-
-Breve descripción del proyecto y su importancia. Puedes agregar un enlace a la demo o al repositorio.
-
-## Contribuciones
-
-- [Nombre del proyecto o repositorio](enlace-al-repositorio): Descripción breve de tu contribución y su importancia.
-
-## Experiencia
-
-### Nombre de la empresa
-
-- Cargo: Descripción breve de tus responsabilidades y logros.
-- Período: Fecha de inicio - Fecha de finalización
-
-### Nombre de la empresa
-
-- Cargo: Descripción breve de tus responsabilidades y logros.
-- Período: Fecha de inicio - Fecha de finalización
 
 ## Educación
 
-- Título: Nombre del título obtenido
-- Universidad: Nombre de la universidad o institución educativa
-- Año de graduación: Año de graduación
+- Licenciado en ciencias de la informatica
+- Unidad Profesional Interdiciplinaria de Ingenieria Ciencias Sociales y Administrativas 
 
 ## ¡Ponte en contacto conmigo!
 
