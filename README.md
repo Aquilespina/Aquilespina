@@ -2,26 +2,36 @@
 
 [![Tu nombre](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aquilespo/)
 [![Tu nombre](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/tu-usuario-de-twitter)
+# Mis Habilidades
 
-## Habilidades
+## Lenguajes de Programación
+- **Python:** Amplia experiencia en el desarrollo de aplicaciones y scripts.
+- **JavaScript:** Competente en el desarrollo web y aplicaciones de una sola página.
+- **Java:** Conocimientos sólidos en programación orientada a objetos.
 
-- Lenguajes de programación: Python, JavaScript, Java
-- Tecnologías web: HTML, CSS, React
-- Bases de datos: MySQL 
-- Herramientas de desarrollo: Git, VS Code
+## Tecnologías Web
+- **HTML:** Destreza en la creación de estructuras web.
+- **CSS:** Habilidad en la creación de estilos atractivos.
+- **React:** Experiencia en la construcción de aplicaciones web interactivas.
 
-## Proyectos Destacados
+## Bases de Datos
+- **MySQL:** Capacidad para gestionar bases de datos y realizar consultas eficientes.
 
-### NASA SPACE CHALLANGE 2023
-Un proyecto desarrollado durante un hackathon organizado por la NASA. En este evento, se abordó la problemática de la creación de una oficina turística espacial.
-[Link del repositorio](https://github.com/Josmar360/Planetary_Tourism_Office)
+## Herramientas de Desarrollo
+- **Git:** Proficiente en control de versiones y colaboración en equipo.
+- **Visual Studio Code:** Entorno de desarrollo preferido para escribir código eficazmente.
 
-### GAME DAY 2023
+# Proyectos Destacados
 
-Un proyecto desarollador durante la WOMAN GAME DAY 2023. En el cual tuvimos 48 horas para crear un videojuego con la tematica de un cambio de perspectiva
-[Link del repositorio](https://github.com/Aquilespina/Prometeo_Gameday)
+## NASA SPACE CHALLENGE 2023
+- Un emocionante proyecto desarrollado durante un hackathon organizado por la NASA.
+- Abordamos la apasionante problemática de la creación de una oficina turística espacial.
+- [Visitar el Repositorio](https://github.com/Josmar360/Planetary_Tourism_Office)
 
-
+## GAME DAY 2023
+- Un desafiante proyecto que surgió durante el WOMAN GAME DAY 2023, donde tuvimos 48 horas para crear un videojuego.
+- La temática de cambio de perspectiva le dio un giro fascinante a la creación.
+- [Explorar el Repositorio](https://github.com/Aquilespina/Prometeo_Gameday)
 
 ## Educación
 
