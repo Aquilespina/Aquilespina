@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Aquiles Piña Olvera]
+# ¡Hola! Soy Aquiles Piña Olvera
 
 [![Tu nombre](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aquilespo/)
 [![Tu nombre](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/tu-usuario-de-twitter)
