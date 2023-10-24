@@ -28,7 +28,7 @@
 - Abordamos la apasionante problemática de la creación de una oficina turística espacial.
 - [Visitar el Repositorio](https://github.com/Josmar360/Planetary_Tourism_Office)
 
-## GAME DAY 2023
+##  WOMAN GAME JAM 2023
 - Un desafiante proyecto que surgió durante el WOMAN GAME DAY 2023, donde tuvimos 48 horas para crear un videojuego.
 - La temática de cambio de perspectiva le dio un giro fascinante a la creación.
 - [Explorar el Repositorio](https://github.com/Aquilespina/Prometeo_Gameday)
