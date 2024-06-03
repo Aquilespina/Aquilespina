@@ -1,15 +1,13 @@
 # ¡Hola! Soy Aquiles Piña Olvera
-<p>With vast experience in software engineering, I have developed a deep proficiency in Python, SQL, and advanced analytics tools like Tableau, DAQ, D3, Jupyter Notebook, EMR and Sagemaker. This extensive background has seamlessly transitioned into a pioneering Data Science role encompassing Data Engineering, Data Mining, Predictive Analytics, Data Visualization, and Machine Learning. More than just proficiency, my expertise represents a commanding ability to turn complex data sets into compelling narratives, actionable strategies and directions. My journey from software engineering to data science is not merely a shift in skillset but a testament to my capacity to lead and innovate in the ever-evolving digital narrative.</p>
 
-## 📌 Sobre mi 
+<p>Un agente de cambio informatico por medio de implementaciones en diversos campos de la sociedad e impactando significativamente en la vida de las demas personas gracias a las ramas de la computacion como lo son : QA, Testing, Docencia e IA </p>
+ 
 
-| Who I Am | Education | Skills | Special Qualities |
-|----------|-----------|--------|------------------|
-| Passion for converting complex data into actionable insights. | Bachelor's Degree in Computer Science & Engineering | Python, SQL, Tableau, AWS | Data strategist committed to solving complex business issues. |
+|Mi perfil  | Educacion| Habilidades |   
+|----------|-----------|--------|
+| Pasionado por generar un cambio con los datos  | Lic Ciencias de la Informatica  | Python, SQL, Tableau|
 
-| Collaboration & Engagement | Data Specialties |
-|----------------------------|-----------------|
-| Thrive in team environments, collaborating with Business Analysts, Data Scientists, and Software Engineer | Data Engineering, Predictive Analytics, Data Visualization & Machine Learning |
+
 
 ## NASA SPACE CHALLENGE 2023
 - Un emocionante proyecto desarrollado durante un hackathon organizado por la NASA.
