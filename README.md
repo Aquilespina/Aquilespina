@@ -1,9 +1,15 @@
 # ¡Hola! Soy Aquiles Piña Olvera
+<p>With vast experience in software engineering, I have developed a deep proficiency in Python, SQL, and advanced analytics tools like Tableau, DAQ, D3, Jupyter Notebook, EMR and Sagemaker. This extensive background has seamlessly transitioned into a pioneering Data Science role encompassing Data Engineering, Data Mining, Predictive Analytics, Data Visualization, and Machine Learning. More than just proficiency, my expertise represents a commanding ability to turn complex data sets into compelling narratives, actionable strategies and directions. My journey from software engineering to data science is not merely a shift in skillset but a testament to my capacity to lead and innovate in the ever-evolving digital narrative.</p>
 
-[![Tu nombre](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aquilespo/)
-[![Tu nombre](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/tu-usuario-de-twitter)
+## 📌 Sobre mi 
 
-# Proyectos Destacados
+| Who I Am | Education | Skills | Special Qualities |
+|----------|-----------|--------|------------------|
+| Passion for converting complex data into actionable insights. | Bachelor's Degree in Computer Science & Engineering | Python, SQL, Tableau, AWS | Data strategist committed to solving complex business issues. |
+
+| Collaboration & Engagement | Data Specialties |
+|----------------------------|-----------------|
+| Thrive in team environments, collaborating with Business Analysts, Data Scientists, and Software Engineer | Data Engineering, Predictive Analytics, Data Visualization & Machine Learning |
 
 ## NASA SPACE CHALLENGE 2023
 - Un emocionante proyecto desarrollado durante un hackathon organizado por la NASA.
@@ -19,20 +25,6 @@
 
 - Licenciado en ciencias de la informatica
 - Unidad Profesional Interdiciplinaria de Ingenieria Ciencias Sociales y Administrativas 
-
-## ¡Ponte en contacto conmigo!
-
-Si quieres colaborar en algún proyecto o simplemente quieres decir hola, no dudes en contactarme a través de LinkedIn, Twitter o por correo electrónico.
-
-¡Espero que te haya gustado mi perfil! No dudes en explorar mis proyectos y contribuciones. ¡Gracias por visitar!
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pi%C3%B1a-olvera-aquiles-aa0864219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aquiles piña olvera" height="30" width="40" /></a>
-<a href="https://twitter.com/aquilespolvera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aquiles Piña Olvera" height="30" width="40" /></a>
-<a href="https://instagram.com/aquiles.p.olvera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aquiles olvera" height="30" width="40" /></a>
-</p> 
 
 ## Communities 🌎
 * Stundent Ambassador Codigos bits ⚡️
